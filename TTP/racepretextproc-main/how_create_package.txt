@@ -1,0 +1,21 @@
+-------------------
+1. Create package
+-------------------
+python setup.py sdist bdist_wheel
+
+----------------
+2.Install twine
+----------------
+python -m pip install --user --upgrade twine
+
+----------------
+3.Install twine
+----------------
+## for pypi repo
+python -m twine upload dist/*
+
+## for testpypi repo
+python -m twine upload --repository testpypi dist/* 
+
+
+https://twine.readthedocs.io/en/latest/

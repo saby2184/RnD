@@ -1,0 +1,8 @@
+wordcloud~=1.8.1
+setuptools~=49.2.0
+matplotlib~=3.2.2
+nltk~=3.5
+emot~=2.1
+textblob~=0.15.3
+pandas~=0.24.2
+numpy~=1.18.5

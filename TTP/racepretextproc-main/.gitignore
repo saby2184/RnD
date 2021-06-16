@@ -1,0 +1,6 @@
+.idea
+dist
+racepretextproc_sksg.egg-info
+*.pyc
+racepretextproc
+racepretextproc.egg-info
