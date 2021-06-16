@@ -1,5 +1,9 @@
 # RCM using Kmeans(numpy)
 
+
+### Authors
+Pawan Rama Mali,Sabyasachi Sengupta
+
 ### Abstract
 
 Customer segmentation is the process of 
