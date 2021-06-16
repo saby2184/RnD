@@ -4,6 +4,10 @@
 
 https://pypi.org/project/racepretextproc/
 
+### Authors
+
+Rakesh Kumar Maddipeti,Gurushanth Murthy,Sabysachi Sengupta,Shashi Kumar TN
+
 
 ### Functionalities
 The functionalities which this pre-processing library will be 
